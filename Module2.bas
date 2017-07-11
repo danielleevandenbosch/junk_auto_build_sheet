@@ -9,7 +9,7 @@ Public MyObj As Object, MySource As Object, file As Variant
 'is this it???? 7/11/2017 350 pm
 
 Public Function tom()
-
+'tom as in tom scholten?
     j = 1
 'hello
     i = 1
